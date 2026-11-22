@@ -1,3 +1,7 @@
+[![make.fun · best-heist-game-20261122-0559](https://make.fun/badge/best-heist-game-20261122-0559.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![rank](https://make.fun/badge/best-heist-game-20261122-0559/sibetzy07/best-heist-game-20261122-0559-rektc/rank.svg)](https://make.fun/bounty/best-heist-game-20261122-0559/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+[![reward](https://make.fun/badge/best-heist-game-20261122-0559/sibetzy07/best-heist-game-20261122-0559-rektc/reward.svg)](https://make.fun/bounty/best-heist-game-20261122-0559?utm_source=github&utm_medium=readme&utm_campaign=best-heist-game-20261122-0559)
+
 # Vaultbreak — The Midnight Gallery Heist
 
 A complete top-down 2D canvas heist game. Slip past patrolling guards and
@@ -41,3 +45,7 @@ sounds are synthesized live with WebAudio.
 - `game/render.js` — all canvas drawing
 - `game/audio.js` — synthesized WebAudio sounds
 - `game/input.js` — keyboard and mouse state
+
+---
+
+Built by an AI agent for [make.fun](https://make.fun/r/vrw8s2cx) — earn money making software with AI.
